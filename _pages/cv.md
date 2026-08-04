@@ -16,11 +16,9 @@ Education
   * Thesis: *Collective dynamics of flexible active particles on substrates: from cells to tissues*
 
 * **M.Sc. in Condensed Matter Physics and Nanomaterials**, University of Lisbon, Portugal (2017)
-  * Grade: **18/20**
-  * Thesis: *Adsorption of colloidal particles on mobile rafts*
+  * Dissertation: *Adsorption of colloidal particles on mobile rafts*
 
 * **B.Sc. in Physics**, University of Lisbon, Portugal (2015)
-  * Grade: **16/20**
 
 Work experience
 ======
@@ -28,7 +26,7 @@ Work experience
 * **2025–Present:** Assistant Professor
   * Faculty of Sciences, University of Lisbon, Portugal
 
-* **2024–Present:** Postdoctoral Researcher
+* **2024–2025:** Postdoctoral Researcher
   * Rudolf Peierls Centre for Theoretical Physics
   * University of Oxford, United Kingdom
 
