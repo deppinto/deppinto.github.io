@@ -15,25 +15,21 @@ Work experience
 <div class="current-position" markdown="1">
   
 * **2025–Present:** Assistant Professor
-  * Faculty of Sciences, University of Lisbon, Portugal
+  * Faculty of Sciences, University of Lisbon
  
 </div>
 
 * **2024–2025:** Postdoctoral Researcher
-  * Rudolf Peierls Centre for Theoretical Physics
-  * University of Oxford, United Kingdom
+  * Rudolf Peierls Centre for Theoretical Physics, University of Oxford
 
 * **2021–2024:** Postdoctoral Researcher
-  * Department of Physics
-  * Sapienza University of Rome, Italy
+  * Department of Physics, Sapienza University of Rome
 
 * **2016–2017:** Teaching Assistant
-  * Faculty of Sciences
-  * University of Lisbon
+  * Faculty of Sciences, University of Lisbon
 
 * **2015–2016:** Research Fellow
-  * CFTC - Centre for Theoretical and Computational Physics
-  * University of Lisbon
+  * CFTC - Centre for Theoretical and Computational Physics, University of Lisbon
 
 Education
 ======
