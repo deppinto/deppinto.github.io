@@ -19,7 +19,7 @@ Work experience
  
 </div>
 
-* **2024–2025:** Postdoctoral Researcher
+* **2024–2025:** UKRI Horizon Europe Guarantee Marie Skłodowska-Curie Postdoctoral Fellow
   * Rudolf Peierls Centre for Theoretical Physics, University of Oxford
 
 * **2021–2024:** Postdoctoral Researcher
