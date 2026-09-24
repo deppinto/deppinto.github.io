@@ -25,3 +25,30 @@ html[data-theme="dark"] .current-position {
 .thesis-link:hover {
   opacity: 1;
 }
+
+
+/* Team page */
+
+.team-member {
+  display: flex;
+  align-items: flex-start;
+  gap: 25px;
+  margin-bottom: 40px;
+}
+
+.team-photo {
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+.team-info h2 {
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+
+.team-info p {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
