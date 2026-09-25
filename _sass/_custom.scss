@@ -91,3 +91,62 @@ html[data-theme="dark"] .current-position {
 }
 
 
+/* ================================
+   Research page
+   ================================ */
+
+.research-line {
+  margin-bottom: 70px;
+}
+
+.research-line h2 {
+  margin-bottom: 10px;
+}
+
+.research-question {
+  font-size: 1.15em;
+  font-style: italic;
+  margin-bottom: 20px;
+}
+
+.research-references {
+  margin-bottom: 30px;
+}
+
+.research-references li {
+  margin-bottom: 10px;
+}
+
+.research-figure {
+  margin: 35px 0 0 0;
+  text-align: center;
+}
+
+.research-figure img {
+  display: block;
+  width: 100%;
+  max-width: 850px;
+  height: auto;
+  margin: 0 auto;
+  border-radius: 5px;
+}
+
+.research-figure figcaption {
+  max-width: 850px;
+  margin: 12px auto 0;
+  font-size: 0.9em;
+  line-height: 1.5;
+  text-align: left;
+}
+
+@media (max-width: 700px) {
+  .research-line {
+    margin-bottom: 50px;
+  }
+
+  .research-question {
+    font-size: 1.05em;
+  }
+}
+
+
