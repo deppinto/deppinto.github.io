@@ -7,4 +7,27 @@ redirect_from:
   - /about.html
 ---
 
-I earned my PhD in Physics, in 2022, from the Faculty of Sciences of the University of Lisbon (FCUL), where I studied rigidity transitions in biological tissues. I then joined Sapienza University of Rome as a Postdoctoral Researcher, focusing on self-assembly at the micro- and nanoscale. In 2024, I joined the University of Oxford as a Marie Curie Fellow where I investigated hole formation in epithelial tissues. Since 2025, I have been an Assistant Professor in the Physics Department at FCUL and a Researcher at the Centro de Física Teórica e Computacional (CFTC).
+<p>
+  Welcome! I am a physicist interested in how
+  <strong>complex collective behaviour emerges from simple interactions</strong>
+  in soft and living matter.
+</p>
+
+<p>
+  My research combines computational modelling and statistical physics to
+  explore the mechanics and collective dynamics of cells and tissues,
+  deformable particles under flow, fracture in living materials, and the
+  inverse design of self-assembling structures.
+  More broadly, I am interested in connecting microscopic interactions,
+  geometry and dynamics to the emergence of structure and function at
+  larger scales.
+</p>
+
+<p>
+  Here you can find more about my
+  <a href="{{ '/research/' | relative_url }}">research</a>,
+  <a href="{{ '/team/' | relative_url }}">team</a>,
+  <a href="{{ '/teaching/' | relative_url }}">teaching</a>,
+  and <a href="{{ '/outreach/' | relative_url }}">outreach activities</a>,
+  as well as occasional updates on recent work.
+</p>
