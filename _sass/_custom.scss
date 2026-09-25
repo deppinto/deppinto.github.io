@@ -150,3 +150,14 @@ html[data-theme="dark"] .current-position {
 }
 
 
+.homepage-figure {
+  margin: 30px 0;
+  text-align: center;
+}
+
+.homepage-figure img {
+  width: 100%;
+  max-width: 1000px;
+  height: auto;
+  border-radius: 5px;
+}
