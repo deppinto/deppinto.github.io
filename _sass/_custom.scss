@@ -161,3 +161,39 @@ html[data-theme="dark"] .current-position {
   height: auto;
   border-radius: 5px;
 }
+
+/* ================================
+   Opportunities page
+   ================================ */
+
+.opportunity-card {
+  margin: 20px 0 35px 0;
+  padding: 25px 30px;
+  border: 1px solid #e5e5e5;
+  border-radius: 8px;
+  background: #fafafa;
+}
+
+.opportunity-card h3 {
+  margin-top: 0;
+  margin-bottom: 12px;
+}
+
+.opportunity-card p {
+  margin-bottom: 15px;
+}
+
+.opportunity-link {
+  display: inline-block;
+  font-weight: 600;
+  text-decoration: none;
+  margin-top: 5px;
+}
+
+.opportunity-link:hover {
+  text-decoration: underline;
+}
+
+.opportunity-contact {
+  margin-bottom: 50px;
+}
