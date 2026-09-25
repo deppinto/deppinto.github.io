@@ -31,3 +31,9 @@ redirect_from:
   and <a href="{{ '/outreach/' | relative_url }}">outreach activities</a>,
   as well as occasional updates on recent work.
 </p>
+
+
+<figure class="homepage-figure">
+  <img src="{{ '/images/homepage/research-overview.png' | relative_url }}"
+       alt="Illustration of research in soft matter, biophysics and self-assembly">
+</figure>
