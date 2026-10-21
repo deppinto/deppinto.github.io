@@ -66,8 +66,10 @@ Curriculum Vitae
 <div class="archive__item">
 
   <p>
-    <a href="https://scholar.google.com/citations?user=hX-dLT0AAAAJ&hl=en" class="btn btn--primary">
-      <i class="fas fa-graduation-cap"></i>&nbsp; Google Scholar
+    <a href="{{ base_path }}/files/full_cv.pdf"
+       class="btn btn--primary"
+       download="CV.pdf">
+      <i class="fas fa-file-pdf"></i>&nbsp; Download Full CV
     </a>
   </p>
 
