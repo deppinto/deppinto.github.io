@@ -61,3 +61,15 @@ Publications
 
 </div>
 
+Curriculum Vitae
+======
+<div class="archive__item">
+
+  <p>
+    <a href="https://scholar.google.com/citations?user=hX-dLT0AAAAJ&hl=en" class="btn btn--primary">
+      <i class="fas fa-graduation-cap"></i>&nbsp; Google Scholar
+    </a>
+  </p>
+
+</div>
+
