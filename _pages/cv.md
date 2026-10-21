@@ -66,7 +66,7 @@ Curriculum Vitae
 <div class="archive__item">
 
   <p>
-    <a href="{{ base_path }}/files/full_cv.pdf"
+    <a href="{{ base_path }}/files/CV.pdf"
        class="btn btn--primary"
        download="CV.pdf">
       <i class="fas fa-file-pdf"></i>&nbsp; Download Full CV
